@@ -6,16 +6,16 @@ Users can enter the volume of the room and areas of surfaces and subsurfaces. Ma
 
 The calculations are based on statistical acoustics and implement the standards DIN EN 12354-6 and DIN 18041.
 
-[[_TOC_]]
+The App can be used online [here](https://raumakustik.streamlit.app/).
 
 ## Documentation & User Guide
-A [Documentation](https://mcht67.github.io/raumakustik2ndUpload/index.html) generated with [Sphinx](https://www.sphinx-doc.org/) can be found on GitHub pages. 
+A [Documentation](https://mcht67.github.io/Nachhallzeitenanalyse/index.html) generated with [Sphinx](https://www.sphinx-doc.org/) can be found on GitHub pages.
 For details on usage and implementation of the norms view the [User Guide](pages/user_guide.pdf).
 
 ## Setup
 Use git to clone this repository into your computer.
 ```
-git clone https://github.com/moritzxt/raumakustik
+git clone https://github.com/mcht67/Nachhallzeitenanalyse
 ```
 
 Setup of the virtual environment:
@@ -34,5 +34,5 @@ Open a console and navigate to the raumakustik directory:
 streamlit run Nachhallzeitenanalyse.py
 ```
 
-For more information see the [Documentation](https://mcht67.github.io/raumakustik2ndUpload/index.html)
+For more information see the [Documentation](https://mcht67.github.io/Nachhallzeitenanalyse/index.html)
 and the [User Guide](pages/user_guide.pdf).
